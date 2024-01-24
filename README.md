@@ -1,7 +1,7 @@
 ![MasterHead](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png
 )
 <h1 align="center">Hey 👋, I'm Apurv</h1>
-<h3 align="center">Frontend Engineer by day Basketball Player on the 💪</h3>
+<h3 align="center">Frontend Engineer by day Basketball Player on the Weekends!!💪</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ApsMJ23&label=Profile%20views&color=0e75b6&style=flat" alt="apsmj23" /> </p>
 
