@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working **As a software Engineer at a Fintech Startup**
 
-- 🎮Hobbies: **Basketball and Coding**💻
+- 🏀Hobbies: **Basketball and Coding**💻
 
 - 😁 Fun Fact: **Jack of all trades , Master of None !**
 
