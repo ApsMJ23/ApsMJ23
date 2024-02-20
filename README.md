@@ -27,7 +27,9 @@
 <p align="left">
 <a href="https://twitter.com/ballin_engineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_abhi22" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/apsmj23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-gupta-94781a178" height="30" width="40" /></a>
-<a href="https://instagram.com/ballin_engineer14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="guptabhishek8" height="30" width="40" /></a>
+<a href="https://instagram.com/ballin_engineer14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="apurv" height="30" width="40" /></a>
+
+<a href="https://app.daily.dev/apurv_singh"><img src="https://api.daily.dev/devcards/v2/vql82NOYR.png?r=lv5&type=default" width="356" alt="Apurva Singh's Dev Card"/></a>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=apsmj23&show_icons=true&locale=en&layout=compact" alt="guptabhishek8" /></p>
